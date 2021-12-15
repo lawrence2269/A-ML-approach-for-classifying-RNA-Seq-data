@@ -2,8 +2,8 @@
 
 #### Authors
 * Lawrence Thanakumar Rajappa (**IDA, Linköping University, Linköping**)
-* krzysztof Bartoszek (**STIMA,Linköping University, Linköping**)
-* Jenny Persson (**Molecular Biology, Umeå University, Umeå**)
+* Prof. krzysztof Bartoszek (**STIMA,Linköping University, Linköping**)
+* Prof. Jenny Persson (**Molecular Biology, Umeå University, Umeå**)
 
 #### Abstract
 <p align="justify">
