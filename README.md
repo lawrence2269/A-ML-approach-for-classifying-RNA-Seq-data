@@ -1,9 +1,9 @@
 # A machine learning approach to classify cancer genes and cancer-associated immune genes in a Next-generation RNA Seq
 
 #### Authors
-* Lawrence Thanakumar Rajappa (**IDA, Linköping University, Linköping**)
-* Prof. krzysztof Bartoszek (**STIMA,Linköping University, Linköping**)
-* Prof. Jenny Persson (**Molecular Biology, Umeå University, Umeå**)
+* Lawrence Thanakumar Rajappa (**IDA, Linköping University, Linköping, Sweden**)
+* Prof. krzysztof Bartoszek (**STIMA, Linköping University, Linköping, Sweden**)
+* Prof. Jenny Persson (**Molecular Biology, Umeå University, Umeå, Sweden**)
 
 #### Abstract
 <p align="justify">
