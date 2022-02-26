@@ -1,4 +1,4 @@
-# A machine learning approach to classify cancer genes and cancer-associated immune genes in a Next-generation RNA Seq
+# A machine learning approach to classify cancer genes and cancer-associated immune genes in a Next-generation RNA Sequence data
 
 #### Authors
 * Lawrence Thanakumar Rajappa (**IDA, Linköping University, Linköping, Sweden**)
