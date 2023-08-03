@@ -2,6 +2,7 @@
 
 #### Authors
 * Lawrence Thanakumar Rajappa (**IDA, Linköping University, Linköping, Sweden**)
+* Prof. Jose M Pena (**STIMA, Linköping University, Linköping, Sweden**)
 * Prof. krzysztof Bartoszek (**STIMA, Linköping University, Linköping, Sweden**)
 * Prof. Jenny Persson (**Molecular Biology, Umeå University, Umeå, Sweden**)
 
